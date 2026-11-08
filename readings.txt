@@ -1,0 +1,2 @@
+previous=1200
+current=1520

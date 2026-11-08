@@ -1,0 +1,3 @@
+Fridge, 150, 24
+Laptop, 60, 5
+Lamp, 10, 2
